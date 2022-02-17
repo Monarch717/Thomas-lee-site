@@ -1,9 +1,9 @@
 {
-  "name": "inbio-gatsby",
+  "name": "inbio-thomas",
   "version": "1.0.0",
   "private": true,
-  "description": "inbio-gatsby",
-  "author": "Rainbow IT",
+  "description": "inbio-thomas",
+  "author": "Thomas Lee",
   "keywords": [
     "gatsby"
   ],

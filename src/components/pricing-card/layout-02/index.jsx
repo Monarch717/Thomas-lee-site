@@ -19,7 +19,7 @@ const PricingCard = ({ title, subtitle, price, orderLink, features }) => {
                         <span
                             className={cn(
                                 "name",
-                                feature.available === false && "off"
+                                feature.available === false && "off",
                             )}
                         >
                             {feature.title}
@@ -44,7 +44,7 @@ PricingCard.propTypes = {
         PropTypes.shape({
             title: PropTypes.string.isRequired,
             available: PropTypes.bool.isRequired,
-        })
+        }),
     ).isRequired,
     orderLink: PropTypes.string.isRequired,
 };

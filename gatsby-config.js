@@ -1,25 +1,25 @@
 module.exports = {
     siteMetadata: {
         siteUrl: "https://www.yourdomain.tld",
-        title: "Inbio - Personal Portfolio React Template",
+        title: "Inbio - Personal Portfolio of Thomas Lee",
         description: "Awesome Gatsby template",
-        author: "Rainbow IT",
+        author: "Thomas Lee",
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "inbio",
-        twitterUsername: "@rainbowit",
+        telegram: "@ThomasIdea",
         getform_url:
             "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
         socials: [
             {
                 id: 1,
                 title: "facebook",
-                path: "https://facebook.com",
+                path: "#!",
                 icon: "Facebook",
             },
             {
                 id: 2,
-                title: "instagram",
+                title: "discord",
                 path: "https://instagram.com",
                 icon: "Instagram",
             },
@@ -31,8 +31,10 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "1 (602) 935-6462",
+            email: "ahmedjarvacwp65@gmail.com",
+            telegram: "@ThomasIdea",
+            discord: "Thomas-NFT#7787",
         },
     },
     plugins: [
