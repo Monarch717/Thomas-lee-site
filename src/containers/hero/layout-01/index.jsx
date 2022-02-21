@@ -5,6 +5,10 @@ import Social, { SocialLink } from "@ui/social";
 import SkillShare, { SkillItem } from "@ui/skill-share";
 import Image from "@ui/image";
 import Icon from "@ui/icon";
+import telegramLogo from "../../../data/images/icons/telegram-icon.png";
+import discordLogo from "../../../data/images/icons/discord-icon.svg";
+import linkedinLogo from "../../../data/images/icons/linkedin-icon.png";
+
 import {
     ImageType,
     HeadingType,
@@ -85,10 +89,18 @@ const HeroArea = ({ data, id }) => {
                                                                     social.path
                                                                 }
                                                             >
-                                                                <Icon
-                                                                    name={
-                                                                        social.icon
+                                                                <Image
+                                                                    src={
+                                                                        social.id ==
+                                                                        1
+                                                                            ? linkedinLogo
+                                                                            : social.id ==
+                                                                              2
+                                                                            ? discordLogo
+                                                                            : telegramLogo
                                                                     }
+                                                                    alt="icon"
+                                                                    className="w-50"
                                                                 />
                                                             </SocialLink>
                                                         )
