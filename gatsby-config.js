@@ -20,13 +20,13 @@ module.exports = {
             {
                 id: 2,
                 title: "discord",
-                path: "https://discord.gg/FxeNGvTNUN",
+                path: "https://discord.gg/EZbdGmGEaz",
                 icon: "discord",
             },
             {
                 id: 3,
                 title: "telegram",
-                path: "https://t.me/mengtor717",
+                path: "https://t.me/thomasIdea",
                 icon: "telegram",
             },
         ],

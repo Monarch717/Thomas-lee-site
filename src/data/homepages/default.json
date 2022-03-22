@@ -50,7 +50,7 @@
       ],
       "images": [
         {
-          "src": "../images/slider/monarch.png",
+          "src": "../images/slider/thomas.png",
           "alt": "Personal Portfolio Images"
         }
       ]
@@ -177,14 +177,14 @@
         },
         {
           "id": 4,
-          "title": "New era of capital funding for the future of DeFi",
-          "category": "NFT Gaming",
+          "title": "Simple swap, buy, sell of token & nfts on BSC network",
+          "category": "NFT Gaming & Marketplace",
           "texts": [
             {
-              "content": "Will enjoy our dream with NFT & Metaverse on ERC721 network"
+              "content": ""
             },
             {
-              "content": "React, Web3.js, Solidity, NFT"
+              "content": "React, Web3.js, Solidity, Python, NFT"
             }
           ],
           "images": [
@@ -488,6 +488,36 @@
       "items": [
         {
           "id": 1,
+          "title": "Leinad & Alinz",
+          "subtitle": "Cryptonitegame.io - Gaming & NFT marketing",
+          "designation": "Co-Founder & COO",
+          "projectTitle": "NFT Gaming website development",
+          "projectMeta": "via Discord - Feb 02, 2022 - Present",
+          "rating": "5",
+          "description": "He is really professional blockchain developer, Integrated Multi-Option Wallet connect, and Build Stunning Frontend! Won't break!",
+          "images": [
+            {
+              "src": "../images/testimonial/final-home--5th.png"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Enver Yumrutas",
+          "subtitle": "Mixer - Game Studio",
+          "designation": "Co-Founder & Head of Technology",
+          "projectTitle": "Token & NFT Cross-Chain-Bridge",
+          "projectMeta": "via Linkedin - Feb 17, 2022 - Present",
+          "rating": "5",
+          "description": "Our token created on Avalanche-C Chain, He expand this token & NFT to BSC network. Cross-Chain-Bridge Master! A +++",
+          "images": [
+            {
+              "src": "../images/testimonial/final-home--4th.png"
+            }
+          ]
+        },
+        {
+          "id": 3,
           "title": "Denis Molozhavyy",
           "subtitle": "Moonetrica Official",
           "designation": "Chief Executive Officer",
@@ -502,7 +532,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 4,
           "title": "Abdul Gani",
           "subtitle": "CacaDragon Official",
           "designation": "Chief Operating Officer",
@@ -517,7 +547,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 5,
           "title": "Ambroise A.",
           "subtitle": "GrindBirds",
           "designation": "Co-founder Of GrindBirds",
