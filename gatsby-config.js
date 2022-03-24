@@ -86,8 +86,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Thomas-lee",
-                short_name: "Thomas-lee",
+                name: "ChengRi-lee",
+                short_name: "ChengRi-lee",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",
