@@ -5,17 +5,20 @@ import Social, { SocialLink } from "@ui/social";
 import Icon from "@ui/icon";
 import cn from "classnames";
 import { ImageType, SocialType } from "@utils/types";
+import telegramLogo from "../../data/images/icons/telegram-icon.png";
+import discordLogo from "../../data/images/icons/discord-icon.svg";
+import linkedinLogo from "../../data/images/icons/linkedin-icon.png";
 
 const ContactInfoCard = ({
-    className,
-    image,
-    title,
-    subtitle,
-    desc,
-    phone,
-    email,
-    socials,
-}) => {
+                             className,
+                             image,
+                             title,
+                             subtitle,
+                             desc,
+                             phone,
+                             email,
+                             socials,
+                         }) => {
     return (
         <div className={cn("contact-about-area", className)}>
             {image?.src && (
@@ -46,7 +49,17 @@ const ContactInfoCard = ({
                     <Social className="social-icone">
                         {socials.map((social) => (
                             <SocialLink key={social.id} path={social.path}>
-                                <Icon name={social.icon} />
+                                <Image
+                                    src={
+                                        social.id == 1
+                                            ? linkedinLogo
+                                            : social.id == 2
+                                            ? discordLogo
+                                            : telegramLogo
+                                    }
+                                    alt="icon"
+                                    className="w-50"
+                                />
                             </SocialLink>
                         ))}
                     </Social>

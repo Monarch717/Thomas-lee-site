@@ -1,15 +1,14 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
-        title: "Inbio - Personal Portfolio of Thomas Lee",
-        description: "Awesome Gatsby template",
-        author: "Thomas Lee",
+        siteUrl: "https://chengri-lee.netlify.app/",
+        title: "Personal Portfolio of ChengRi Lee",
+        description:
+            "Senior blockchain developer who has 7+ years of experience in software engineering and blockchain",
+        author: "ChengRi Lee",
         siteLanguage: "en",
-        image: "banner.jpg",
-        titleTemplate: "inbio",
-        telegram: "@ThomasIdea",
-        getform_url:
-            "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
+        image: "./src/data/images/slider/thomas.png",
+        titleTemplate: "",
+        telegram: "@CryptoIdea212",
         socials: [
             {
                 id: 1,
@@ -20,21 +19,21 @@ module.exports = {
             {
                 id: 2,
                 title: "discord",
-                path: "https://discord.gg/EZbdGmGEaz",
+                path: "https://discord.gg/NUuNapvPYs",
                 icon: "discord",
             },
             {
                 id: 3,
                 title: "telegram",
-                path: "https://t.me/thomasIdea",
+                path: "https://t.me/CryptoIdea212",
                 icon: "telegram",
             },
         ],
         contact: {
             phone: "1 (602) 935-6462",
             email: "monarch717930@gmail.com",
-            telegram: "@ThomasIdea",
-            discord: "Thomas-NFT#7787",
+            telegram: "@CryptoIdea212",
+            discord: "Tor#0368",
         },
     },
     plugins: [
@@ -87,14 +86,14 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "Inbio",
-                short_name: "inbio",
+                name: "Thomas-lee",
+                short_name: "Thomas-lee",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",
                 scope: "/",
                 start_url: "/",
-                icon: "src/assets/images/favicon.png",
+                icon: "src/assets/images/avax-logo.png",
             },
         },
     ],

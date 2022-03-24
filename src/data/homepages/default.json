@@ -9,7 +9,7 @@
           "content": "WELCOME TO MY WORLD"
         },
         {
-          "content": "Hi, I’m <span>Thomas Lee</span>"
+          "content": "Hi, I’m <span>Lee</span>"
         }
       ],
       "animated_texts": [
@@ -19,7 +19,7 @@
       ],
       "texts": [
         {
-          "content": "Hi, Everyone, Here am a senior BlockChain Developer, and I love coding, and I can realize your idea to great success."
+          "content": "Hi, Everyone, Here am a senior BlockChain Developer, and I love coding, and I can realize your idea to great success. You can check my previous works in PORTFOLIO & REVIEWS section."
         }
       ],
       "skills": [
@@ -177,11 +177,11 @@
         },
         {
           "id": 4,
-          "title": "Simple swap, buy, sell of token & nfts on BSC network",
+          "title": "Simple swap, buy, sell of token & NFTs on BSC network",
           "category": "NFT Gaming & Marketplace",
           "texts": [
             {
-              "content": ""
+              "content": "Here are some stunning features like token swap, nft marketplace, token reward, stake, roulette"
             },
             {
               "content": "React, Web3.js, Solidity, Python, NFT"
@@ -407,7 +407,6 @@
               "description": "In our roadmap, we are considering bunch of chains, and 300+ protocols and will launch our main token."
             }
           ]
-
         }
       ]
     },
@@ -488,7 +487,7 @@
       "items": [
         {
           "id": 1,
-          "title": "Leinad & Alinz",
+          "title": "I don't share client info!",
           "subtitle": "Cryptonitegame.io - Gaming & NFT marketing",
           "designation": "Co-Founder & COO",
           "projectTitle": "NFT Gaming website development",
@@ -497,13 +496,13 @@
           "description": "He is really professional blockchain developer, Integrated Multi-Option Wallet connect, and Build Stunning Frontend! Won't break!",
           "images": [
             {
-              "src": "../images/testimonial/final-home--5th.png"
+              "src": "../images/testimonial/final-home--4th.png"
             }
           ]
         },
         {
           "id": 2,
-          "title": "Enver Yumrutas",
+          "title": "I don't share client info!",
           "subtitle": "Mixer - Game Studio",
           "designation": "Co-Founder & Head of Technology",
           "projectTitle": "Token & NFT Cross-Chain-Bridge",
@@ -512,13 +511,13 @@
           "description": "Our token created on Avalanche-C Chain, He expand this token & NFT to BSC network. Cross-Chain-Bridge Master! A +++",
           "images": [
             {
-              "src": "../images/testimonial/final-home--4th.png"
+              "src": "../images/testimonial/final-home--5th.png"
             }
           ]
         },
         {
           "id": 3,
-          "title": "Denis Molozhavyy",
+          "title": "I don't share client info!",
           "subtitle": "Moonetrica Official",
           "designation": "Chief Executive Officer",
           "projectTitle": "DeFi: Multi-Chain Dashboard",
@@ -533,13 +532,13 @@
         },
         {
           "id": 4,
-          "title": "Abdul Gani",
+          "title": "I don't share client info!",
           "subtitle": "CacaDragon Official",
           "designation": "Chief Operating Officer",
           "projectTitle": "Token Smart Contract on ERC20",
           "projectMeta": "Telegram - Feb 4, 2022 - Feb 8, 2022, Present...",
           "rating": "5",
-          "description": "Excellent Skills & Great Communication, Thomas delivered fantastic results, and I wanna keep our contact forever.\nAs much as possible I will share my idea with him and will get success together. Don't ask them about the project result to him. ",
+          "description": "Excellent Skills & Great Communication, Lee delivered fantastic results, and I wanna keep our contact forever.\nAs much as possible I will share my idea with him and will get success together. Don't ask them about the project result to him. ",
           "images": [
             {
               "src": "../images/testimonial/final-home--2nd.png"
@@ -548,7 +547,7 @@
         },
         {
           "id": 5,
-          "title": "Ambroise A.",
+          "title": "I don't share client info!",
           "subtitle": "GrindBirds",
           "designation": "Co-founder Of GrindBirds",
           "projectTitle": "Solana Gaming Platform",
@@ -577,7 +576,7 @@
           "items": [
             {
               "id": 1,
-              "title": "Denis Molozhavyy",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -587,7 +586,7 @@
             },
             {
               "id": 2,
-              "title": "Jarrod De Range",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -597,7 +596,7 @@
             },
             {
               "id": 3,
-              "title": "Armands Murnieks",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -607,7 +606,7 @@
             },
             {
               "id": 4,
-              "title": "John Due",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -617,7 +616,7 @@
             },
             {
               "id": 5,
-              "title": "Antony H.P Kamermans",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -627,7 +626,7 @@
             },
             {
               "id": 6,
-              "title": "Mohammad Kosass",
+              "title": "I don't share client info!",
               "path": "#!",
               "images": [
                 {
@@ -1392,12 +1391,12 @@
       },
       "images": [
         {
-          "src": "../images/contact/contact1.png"
+          "src": "../images/logo/lee-motto.png"
         }
       ],
       "headings": [
         {
-          "content": "Thomas Lee"
+          "content": "ChengRi Lee"
         },
         {
           "content": "Senior Blockchain Developer"

@@ -3,11 +3,11 @@
     "section": "header-1",
     "logo": [
         {
-            "src": "../images/logo/logo-1.png"
+            "src": "../images/logo/lee-logo.png"
         },
         {
-            "src": "../images/logo/logo-1.png"
+            "src": "../images/logo/lee-logo.png"
         }
     ],
-    "slogan": "The client's success is my success"
+    "slogan": "The client's success is my success!"
 }
