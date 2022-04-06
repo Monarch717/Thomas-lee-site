@@ -1,10 +1,10 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://chengri-lee.netlify.app/",
-        title: "Personal Portfolio of ChengRi Lee",
+        siteUrl: "https://crypto-monster.netlify.app/",
+        title: "Personal Portfolio of Crypto Monster",
         description:
             "Senior blockchain developer who has 7+ years of experience in software engineering and blockchain",
-        author: "ChengRi Lee",
+        author: "Crypto Monster",
         siteLanguage: "en",
         image: "./src/data/images/slider/thomas.png",
         titleTemplate: "",
@@ -86,8 +86,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: "ChengRi-lee",
-                short_name: "ChengRi-lee",
+                name: "Crypto Monster",
+                short_name: "Crypto-monster",
                 theme_color: "#ff014f",
                 background_color: "#ffffff",
                 display: "standalone",
